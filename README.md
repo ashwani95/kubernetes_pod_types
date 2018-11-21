@@ -14,7 +14,7 @@ This repository contains scripts for running different type of Pods viz :
 - [Replica Sets](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
 - [Replication Controller](https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/)
 - [Services](https://kubernetes.io/docs/concepts/services-networking/service/)
-- [Statefule Set](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)
+- [Stateful Set](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)
 
 
 **Note** : The above pod types are as per the latest Kubernetes Release v1.12. Older kubernetes versions might not support some of these pod types. Please refer [Kubernetes Documentation](https://kubernetes.io/docs/home/?path=browse) for more details.
